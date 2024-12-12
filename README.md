@@ -40,9 +40,9 @@ After the succesful launching of my instances i connected to the instances throu
 ![CONNECTION](/inst_terminal.png)
 After that i ran the set of command provided for us through the project file to install and enable Apachewebser
 ![CONNECTION](/apache_instal.png)
-which i was successful and confirmed by using the public address orvide in myconsole under security and launched it on my browser,
+which i was successful and confirmed by using the public address provided in my console under security and launched it on my browser,
 ![CONNECTION](/Apache.png)
 
-## TERMINATING MY instance
+## TERMINATING MY INSTANCE
 After the successful installation,launch and physical confirmation of the Apachewebserver, i terminated my instances by clicking on instances state dropdown button and choosing the TERMINATE INSTANCE option.
 ![TERMINATING](/inst_termin.png)
